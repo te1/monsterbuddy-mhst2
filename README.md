@@ -33,7 +33,7 @@ Looking for info on Monster Hunter Stories 1 / Remaster instead? Check out https
 - [All High Rank Monsters in each Zone of the Elder Lair](https://www.reddit.com/r/MonsterHunterStories/comments/p8h25d/all_high_rank_monsters_in_each_zone_of_the_elder) by [PetePeterson53](https://www.reddit.com/user/PetePeterson53)
 - [MHS2](https://docs.google.com/spreadsheets/d/1ayBCZ7WrkXniGTjKlkf7JFTzJA_0ZcaLYf5A_MEhxN4) by [dorgesilas](https://www.reddit.com/user/dorgesilas)
 
-See [assets/data/monsters.json](https://github.com/te1/monsterbuddy/blob/main/assets/data/monsters.json) for the collected data.
+See [assets/data/monsters.json](https://github.com/te1/monsterbuddy-mhst2/blob/main/assets/data/monsters.json) for the collected data.
 
 See [monsterbuddy-assets](https://github.com/te1/monsterbuddy-assets) for more details on images.
 
