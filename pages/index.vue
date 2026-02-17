@@ -169,7 +169,14 @@
                   rel="noopener"
                   >MHStories 2 data</a
                 >
-                by iSharingan
+                by
+                <a
+                  class="link"
+                  href="https://www.reddit.com/user/iSharingan"
+                  target="_blank"
+                  rel="noopener"
+                  >iSharingan</a
+                >
               </li>
 
               <li>
