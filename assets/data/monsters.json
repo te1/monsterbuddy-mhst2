@@ -2933,26 +2933,26 @@
       "retreat": "Hit it with a **Paintball** and defeat it quickly to boost the retreat rate.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 4,
+          "speed": 6,
+          "recovery": 5,
+          "critRate": 7
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 3,
+          "water": 3,
+          "thunder": 3,
+          "ice": 2,
+          "dragon": 3
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 3,
+          "water": 3,
+          "thunder": 3,
+          "ice": 2,
+          "dragon": 3
         }
       }
     }
@@ -3568,26 +3568,26 @@
       "retreat": "**Defeat** with a **Rathalos** **Kinship Skill** to greatly boost the retreat rate.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 6,
+          "speed": 5,
+          "recovery": 4,
+          "critRate": 5
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 3,
+          "water": 5,
+          "thunder": 7,
+          "ice": 5,
+          "dragon": 5
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 3,
+          "water": 5,
+          "thunder": 7,
+          "ice": 5,
+          "dragon": 5
         }
       }
     }
@@ -4431,26 +4431,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 7,
+          "speed": 5,
+          "recovery": 10,
+          "critRate": 7
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 10,
+          "fire": 7,
+          "water": 7,
+          "thunder": 5,
+          "ice": 7,
+          "dragon": 7
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 8,
+          "fire": 6,
+          "water": 6,
+          "thunder": 4,
+          "ice": 6,
+          "dragon": 6
         }
       }
     }
@@ -5247,26 +5247,26 @@
       "retreat": "Attack with an **Azure Rathalos** **Kinship Skill** to greatly boost the retreat rate.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 8,
+          "speed": 5,
+          "recovery": 8,
+          "critRate": 6
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 4,
+          "fire": 6,
+          "water": 4,
+          "thunder": 4,
+          "ice": 4,
+          "dragon": 3
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 4,
+          "fire": 6,
+          "water": 4,
+          "thunder": 4,
+          "ice": 4,
+          "dragon": 3
         }
       }
     }
@@ -5394,20 +5394,20 @@
           "critRate": null
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 8,
+          "fire": 6,
+          "water": 6,
+          "thunder": 4,
+          "ice": 6,
+          "dragon": 6
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 7,
+          "fire": 5,
+          "water": 5,
+          "thunder": 3,
+          "ice": 5,
+          "dragon": 5
         }
       }
     }
@@ -5547,10 +5547,10 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 9,
+          "speed": 5,
+          "recovery": 1,
+          "critRate": 7
         },
         "attack": {
           "none": null,
