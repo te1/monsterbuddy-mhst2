@@ -5272,7 +5272,6 @@
     }
   },
   {
-    // TODO defeat, hatch
     "no": 115,
     "name": "Fulgur Anjanath",
     "genus": "Brute Wyvern",
@@ -5314,26 +5313,26 @@
       "retreat": "Break the **nose** with an **ice element attack** to greatly boost the retreat rate.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 7,
+          "speed": 4,
+          "recovery": 1,
+          "critRate": 6
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 6,
+          "fire": 6,
+          "water": 6,
+          "thunder": 7,
+          "ice": 4,
+          "dragon": 6
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 3,
+          "fire": 3,
+          "water": 3,
+          "thunder": 5,
+          "ice": 2,
+          "dragon": 3
         }
       }
     }
