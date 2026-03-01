@@ -5132,7 +5132,6 @@
     }
   },
   {
-    // TODO hatch
     "no": 113,
     "name": "Azure Rathalos",
     "genus": "Flying Wyvern",
@@ -5181,26 +5180,26 @@
       "retreat": "**Defeat** with a **Lagiacrus** **Kinship Skill** to greatly boost the retreat rate.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 7,
+          "speed": 5,
+          "recovery": 3,
+          "critRate": 6
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 6,
+          "fire": 8,
+          "water": 6,
+          "thunder": 6,
+          "ice": 6,
+          "dragon": 4
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 7,
+          "water": 5,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 3
         }
       }
     }
