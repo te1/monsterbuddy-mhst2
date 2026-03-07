@@ -45,7 +45,7 @@
           <AppFilterPill
             v-if="monsterFilter.hasActiveSort"
             :caption="monsterFilter.activeSort.caption"
-            filterTarget="/monsties/filter/"
+            filterTarget="/monsters/filter/"
             :sortOrder="monsterFilter.activeSort.order"
           />
 

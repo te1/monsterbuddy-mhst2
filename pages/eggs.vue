@@ -50,7 +50,7 @@
           <AppFilterPill
             v-if="eggFilter.hasActiveSort"
             :caption="eggFilter.activeSort.caption"
-            filterTarget="/monsties/filter/"
+            filterTarget="/eggs/filter/"
             :sortOrder="eggFilter.activeSort.order"
           />
 
