@@ -306,6 +306,17 @@
                   >dorgesilas</a
                 >
               </li>
+
+              <li>
+                Missing data provided by
+                <a
+                  class="link"
+                  href="https://www.reddit.com/user/DerMotze"
+                  target="_blank"
+                  rel="noopener"
+                  >DerMotze</a
+                >
+              </li>
             </ul>
           </div>
 
