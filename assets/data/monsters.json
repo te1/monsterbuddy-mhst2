@@ -5570,7 +5570,6 @@
     }
   },
   {
-    // TODO hatch
     "no": 119,
     "name": "Grimclaw Tigrex",
     "genus": "Flying Wyvern",
@@ -5616,26 +5615,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 7,
+          "speed": 5,
+          "recovery": 1,
+          "critRate": 8
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 9,
+          "fire": 6,
+          "water": 6,
+          "thunder": 4,
+          "ice": 6,
+          "dragon": 6
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 7,
+          "fire": 5,
+          "water": 5,
+          "thunder": 3,
+          "ice": 5,
+          "dragon": 5
         }
       }
     }
@@ -5891,7 +5890,7 @@
     }
   },
   {
-    // TODO defeat, hatch
+    // TODO hatch
     "no": 123,
     "name": "Rajang",
     "genus": "Fanged Beast",
@@ -5922,11 +5921,10 @@
     "rarity": 6,
     "monster": {
       "attackPatterns": {
-        // TODO figure out "aura" interactions
-        "DEFAULT": "power"
-        // "Power aura": "power",
-        // "Speed aura": "speed",
-        // "Technical aura": "technical"
+        "DEFAULT": "power",
+        "Power aura": "power",
+        "Speed aura": "speed",
+        "Technical aura": "technical"
       },
       "parts": {
         "Head": ["slash", "blunt", "pierce"],
