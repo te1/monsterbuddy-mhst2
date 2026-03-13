@@ -4556,26 +4556,26 @@
       "retreat": "**Defeat** with a **Mizutsune** **Kinship Skill** to greatly boost the retreat rate.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 7,
+          "speed": 5,
+          "recovery": 1,
+          "critRate": 7
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 6,
+          "fire": 8,
+          "water": 4,
+          "thunder": 6,
+          "ice": 6,
+          "dragon": 6
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 7,
+          "water": 3,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 5
         }
       }
     }
@@ -5321,7 +5321,7 @@
           "none": 6,
           "fire": 6,
           "water": 6,
-          "thunder": 7,
+          "thunder": 8,
           "ice": 4,
           "dragon": 6
         },
@@ -5551,20 +5551,20 @@
           "critRate": 7
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 10,
+          "fire": 7,
+          "water": 5,
+          "thunder": 7,
+          "ice": 7,
+          "dragon": 7
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 7,
+          "fire": 5,
+          "water": 3,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 5
         }
       }
     }
@@ -5694,26 +5694,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 8,
+          "speed": 5,
+          "recovery": 7,
+          "critRate": 8
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 6,
+          "fire": 8,
+          "water": 6,
+          "thunder": 6,
+          "ice": 6,
+          "dragon": 4
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 6,
+          "fire": 8,
+          "water": 6,
+          "thunder": 6,
+          "ice": 6,
+          "dragon": 4
         }
       }
     }
@@ -5785,26 +5785,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 6,
+          "speed": 7,
+          "recovery": 8,
+          "critRate": 10
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 6,
+          "fire": 4,
+          "water": 6,
+          "thunder": 9,
+          "ice": 6,
+          "dragon": 6
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 4,
+          "fire": 3,
+          "water": 4,
+          "thunder": 6,
+          "ice": 4,
+          "dragon": 4
         }
       }
     }
@@ -5866,26 +5866,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 9,
+          "speed": 5,
+          "recovery": 2,
+          "critRate": 6
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 7,
+          "fire": 10,
+          "water": 5,
+          "thunder": 7,
+          "ice": 7,
+          "dragon": 7
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 7,
+          "water": 3,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 5
         }
       }
     }
@@ -5946,26 +5946,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 6,
+          "speed": 6,
+          "recovery": 1,
+          "critRate": 6
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 7,
+          "fire": 7,
+          "water": 7,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 7
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 3,
+          "fire": 3,
+          "water": 3,
+          "thunder": 5,
+          "ice": 2,
+          "dragon": 3
         }
       }
     }
@@ -6045,26 +6045,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 8,
+          "speed": 6,
+          "recovery": 7,
+          "critRate": 10
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 6,
+          "fire": 6,
+          "water": 6,
+          "thunder": 4,
+          "ice": 8,
+          "dragon": 6
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 7,
+          "fire": 7,
+          "water": 7,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 7
         }
       }
     }
@@ -6130,26 +6130,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 9,
+          "speed": 5,
+          "recovery": 9,
+          "critRate": 9
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 6,
+          "fire": 4,
+          "water": 6,
+          "thunder": 6,
+          "ice": 9,
+          "dragon": 6
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 6,
+          "fire": 4,
+          "water": 6,
+          "thunder": 6,
+          "ice": 9,
+          "dragon": 6
         }
       }
     }
@@ -6822,26 +6822,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 5,
+          "speed": 7,
+          "recovery": 1,
+          "critRate": 10
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 7,
+          "fire": 5,
+          "water": 5,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 3
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 4,
+          "fire": 3,
+          "water": 3,
+          "thunder": 3,
+          "ice": 3,
+          "dragon": 2
         }
       }
     }
@@ -6877,26 +6877,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 5,
+          "speed": 7,
+          "recovery": 1,
+          "critRate": 10
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 7,
+          "water": 3,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 5
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 3,
+          "fire": 4,
+          "water": 2,
+          "thunder": 3,
+          "ice": 3,
+          "dragon": 3
         }
       }
     }
@@ -6932,26 +6932,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 5,
+          "speed": 7,
+          "recovery": 1,
+          "critRate": 10
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 5,
+          "water": 7,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 3
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 3,
+          "fire": 3,
+          "water": 4,
+          "thunder": 3,
+          "ice": 3,
+          "dragon": 2
         }
       }
     }
@@ -6987,26 +6987,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 5,
+          "speed": 7,
+          "recovery": 1,
+          "critRate": 10
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 5,
+          "water": 5,
+          "thunder": 7,
+          "ice": 3,
+          "dragon": 5
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 3,
+          "fire": 3,
+          "water": 3,
+          "thunder": 4,
+          "ice": 2,
+          "dragon": 3
         }
       }
     }
@@ -7042,32 +7042,32 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 5,
+          "speed": 7,
+          "recovery": 1,
+          "critRate": 10
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 3,
+          "water": 5,
+          "thunder": 5,
+          "ice": 7,
+          "dragon": 5
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 3,
+          "fire": 2,
+          "water": 3,
+          "thunder": 3,
+          "ice": 4,
+          "dragon": 3
         }
       }
     }
   },
   {
-    "no": 142,
+    "no": 141,
     "name": "Palamute (Dragon)",
     "genus": "Fanged Beast",
     "habitat": null,
@@ -7097,26 +7097,26 @@
       "retreat": "This monster **cannot** be chased back to its den.",
       "stats": {
         "base": {
-          "maxHp": null,
-          "speed": null,
-          "recovery": null,
-          "critRate": null
+          "maxHp": 5,
+          "speed": 7,
+          "recovery": 1,
+          "critRate": 10
         },
         "attack": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 5,
+          "fire": 5,
+          "water": 5,
+          "thunder": 3,
+          "ice": 5,
+          "dragon": 7
         },
         "defense": {
-          "none": null,
-          "fire": null,
-          "water": null,
-          "thunder": null,
-          "ice": null,
-          "dragon": null
+          "none": 3,
+          "fire": 3,
+          "water": 3,
+          "thunder": 2,
+          "ice": 3,
+          "dragon": 4
         }
       }
     }
