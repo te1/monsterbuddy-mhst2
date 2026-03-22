@@ -143,7 +143,7 @@ export default {
       title: 'Monster Buddy - Monster List For Monster Hunter Stories 2',
       description:
         'Quickly check for monster attack patterns, elemental weaknesses and weapon effectiveness on body parts',
-      canonical: 'https://monsterbuddy.app/monsters/',
+      canonical: 'https://mhst2.monsterbuddy.app/monsters/',
     });
   },
 

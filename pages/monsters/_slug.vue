@@ -72,8 +72,8 @@ export default {
     return makeHead({
       title: `Monster Buddy - ${this.monster.name} In Monster Hunter Stories 2`,
       description,
-      canonical: `https://monsterbuddy.app/monsters/${this.monster.slug}/`,
-      image: `https://monsterbuddy.app/images/monsters-small/${this.monster.name}.webp`,
+      canonical: `https://mhst2.monsterbuddy.app/monsters/${this.monster.slug}/`,
+      image: `https://mhst2.monsterbuddy.app/images/monsters-small/${this.monster.name}.webp`,
       imageAlt: this.monster.name,
     });
   },

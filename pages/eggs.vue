@@ -185,7 +185,7 @@ export default {
       title: 'Monster Buddy - Egg List For Monster Hunter Stories 2',
       description:
         'Visual guide with images for all egg patterns for every hatchable monstie with search, sorting and filtering',
-      canonical: 'https://monsterbuddy.app/eggs/',
+      canonical: 'https://mhst2.monsterbuddy.app/eggs/',
     });
   },
 

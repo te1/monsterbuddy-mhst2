@@ -419,7 +419,7 @@ export default {
 
   head() {
     return makeHead({
-      canonical: 'https://monsterbuddy.app',
+      canonical: 'https://mhst2.monsterbuddy.app',
     });
   },
 };

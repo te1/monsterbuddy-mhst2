@@ -2,7 +2,7 @@
 
 Companion app for Monster Hunter Stories 2: Wings of Ruin
 
-https://monsterbuddy.app
+https://mhst2.monsterbuddy.app
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/48aafaed-bd5a-4a84-850f-f7132164d207/deploy-status)](https://app.netlify.com/sites/monsterbuddy/deploys)
 

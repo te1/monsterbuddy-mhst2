@@ -34,7 +34,7 @@ export default {
       {
         hid: 'twitter:image',
         name: 'twitter:image',
-        content: 'https://monsterbuddy.app/icon.png',
+        content: 'https://mhst2.monsterbuddy.app/icon.png',
       },
       {
         hid: 'twitter:image:alt',
@@ -54,7 +54,7 @@ export default {
       {
         hid: 'og:image:secure_url',
         property: 'og:image:secure_url',
-        content: 'https://monsterbuddy.app/icon.png',
+        content: 'https://mhst2.monsterbuddy.app/icon.png',
       },
       {
         hid: 'og:image:alt',
@@ -197,7 +197,7 @@ export default {
   },
 
   sitemap: {
-    hostname: 'https://monsterbuddy.app',
+    hostname: 'https://mhst2.monsterbuddy.app',
     trailingSlash: true,
     exclude: [
       '/monsters/filter',
