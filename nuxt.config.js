@@ -78,7 +78,7 @@ export default {
     script: [
       {
         defer: true,
-        'data-domain': 'monsterbuddy.app',
+        'data-domain': 'mhst2.monsterbuddy.app',
         'data-api': '/newt/api/event',
         src: '/newt/js/script.js',
       },
