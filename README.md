@@ -6,7 +6,7 @@ https://monsterbuddy.app
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/48aafaed-bd5a-4a84-850f-f7132164d207/deploy-status)](https://app.netlify.com/sites/monsterbuddy/deploys)
 
-Looking for info on Monster Hunter Stories 1 / Remaster instead? Check out https://mhst1.monsterbuddy.app
+Check out the all new and improved https://monsterbuddy.app with data for Monster Hunter Stories 3: Twisted Reflection!
 
 ## Features
 
