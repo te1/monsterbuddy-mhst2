@@ -4,15 +4,10 @@
     class="note flex gap-3 bg-[#fef9c3] dark:bg-[#eab308]/25 px-4 py-3"
   >
     <div class="flex-1">
-      <a
-        class="link"
-        href="https://www.monsterhunter.com/stories3"
-        target="_blank"
-      >
-        Monster Hunter Stories 3: Twisted Reflection</a
-      >
-      has been released! Expect updates to this site soon™. For now just enjoy
-      the game!
+      <a class="link" href="https://monsterbuddy.app" target="_blank">
+        Monster Buddy
+      </a>
+      has been updated for Monster Hunter Stories 3: Twisted Reflection!
     </div>
 
     <div v-if="!force" class="-mt-3 -mr-3">

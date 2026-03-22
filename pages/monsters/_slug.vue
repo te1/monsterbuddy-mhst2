@@ -3,7 +3,7 @@
     <AppTopBar :heading="monster.name" showBack backFallback="/monsters/" />
 
     <client-only>
-      <Mhst1Banner class="mb-3" />
+      <Mhst3Banner class="mb-3" />
     </client-only>
 
     <main class="grid gap-3 grid-cols-1 lg:grid-cols-2">
