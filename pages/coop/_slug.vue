@@ -1,16 +1,8 @@
 <template>
   <div v-if="coopQuest">
-    <AppTopBar
-      :heading="formatCoopQuest(coopQuest)"
-      showBack
-      backFallback="/coop/"
-    />
+    <AppTopBar :heading="formatCoopQuest(coopQuest)" showBack backFallback="/coop/" />
 
-    <AppFloatingButton
-      v-if="fabVisible"
-      :title="fabTitle"
-      @click="toggleDisplay"
-    >
+    <AppFloatingButton v-if="fabVisible" :title="fabTitle" @click="toggleDisplay">
       <FaIcon :icon="fabIcon" />
     </AppFloatingButton>
 
@@ -29,9 +21,7 @@
             <div class="font-semibold mb-1" v-text="key" />
           </div>
 
-          <div
-            class="mt-1 grid gap-3 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4"
-          >
+          <div class="mt-1 grid gap-3 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             <MonsterSmartListItem
               v-for="item in group"
               :key="item.monster.no"
@@ -110,9 +100,7 @@
 
         items = _.sortBy(items, (item) => item.quest.finalNest);
 
-        return _.groupBy(items, (item) =>
-          item.quest?.finalNest ? 'Final Nest' : 'Normal Nest'
-        );
+        return _.groupBy(items, (item) => (item.quest?.finalNest ? 'Final Nest' : 'Normal Nest'));
       },
 
       isGrouped() {

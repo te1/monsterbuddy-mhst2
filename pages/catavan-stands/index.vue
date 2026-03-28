@@ -19,14 +19,8 @@
           </div>
 
           <div class="box mt-1 overflow-hidden">
-            <div
-              v-for="(catavanStand, index) in stands"
-              :key="catavanStand.slug"
-            >
-              <div
-                v-if="index > 0"
-                class="border-t border-gray-300 dark:border-cool-600"
-              />
+            <div v-for="(catavanStand, index) in stands" :key="catavanStand.slug">
+              <div v-if="index > 0" class="border-t border-gray-300 dark:border-cool-600" />
 
               <NuxtLink
                 :to="`/catavan-stands/${catavanStand.slug}/`"
@@ -58,8 +52,7 @@
 
     head() {
       return makeHead({
-        title:
-          'Monster Buddy - Catavan Stand Fast Travel List For Monster Hunter Stories 2',
+        title: 'Monster Buddy - Catavan Stand Fast Travel List For Monster Hunter Stories 2',
         description:
           'Overview of catavan stand fast travel locations and list of monsters you will find there',
         canonical: 'https://mhst2.monsterbuddy.app/catavan-stands/',
