@@ -43,27 +43,27 @@
 </template>
 
 <script>
-import _ from 'lodash';
-import { deepFreeze, makeHead } from '~/services/utils';
-import { catavanStands } from '~/services/data';
+  import _ from 'lodash';
+  import { deepFreeze, makeHead } from '~/services/utils';
+  import { catavanStands } from '~/services/data';
 
-export default {
-  name: 'PageCatavanStands',
+  export default {
+    name: 'PageCatavanStands',
 
-  data() {
-    return {
-      catavanStands: deepFreeze(_.groupBy(catavanStands, 'zone')),
-    };
-  },
+    data() {
+      return {
+        catavanStands: deepFreeze(_.groupBy(catavanStands, 'zone')),
+      };
+    },
 
-  head() {
-    return makeHead({
-      title:
-        'Monster Buddy - Catavan Stand Fast Travel List For Monster Hunter Stories 2',
-      description:
-        'Overview of catavan stand fast travel locations and list of monsters you will find there',
-      canonical: 'https://mhst2.monsterbuddy.app/catavan-stands/',
-    });
-  },
-};
+    head() {
+      return makeHead({
+        title:
+          'Monster Buddy - Catavan Stand Fast Travel List For Monster Hunter Stories 2',
+        description:
+          'Overview of catavan stand fast travel locations and list of monsters you will find there',
+        canonical: 'https://mhst2.monsterbuddy.app/catavan-stands/',
+      });
+    },
+  };
 </script>

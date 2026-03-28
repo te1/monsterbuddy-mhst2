@@ -40,30 +40,34 @@
 </template>
 
 <script>
-import _ from 'lodash';
-import { deepFreeze, makeHead, formatRidingActionType } from '~/services/utils';
-import { sortedRidingActions } from '~/services/data';
-
-export default {
-  name: 'PageRidingActions',
-
-  data() {
-    return {
-      ridingActions: deepFreeze(_.groupBy(sortedRidingActions, 'type')),
-    };
-  },
-
-  head() {
-    return makeHead({
-      title: 'Monster Buddy - Riding Actions In Monster Hunter Stories 2',
-      description:
-        'Overview of all riding actions and list of monsties that can learn them',
-      canonical: 'https://mhst2.monsterbuddy.app/riding-actions/',
-    });
-  },
-
-  methods: {
+  import _ from 'lodash';
+  import {
+    deepFreeze,
+    makeHead,
     formatRidingActionType,
-  },
-};
+  } from '~/services/utils';
+  import { sortedRidingActions } from '~/services/data';
+
+  export default {
+    name: 'PageRidingActions',
+
+    data() {
+      return {
+        ridingActions: deepFreeze(_.groupBy(sortedRidingActions, 'type')),
+      };
+    },
+
+    head() {
+      return makeHead({
+        title: 'Monster Buddy - Riding Actions In Monster Hunter Stories 2',
+        description:
+          'Overview of all riding actions and list of monsties that can learn them',
+        canonical: 'https://mhst2.monsterbuddy.app/riding-actions/',
+      });
+    },
+
+    methods: {
+      formatRidingActionType,
+    },
+  };
 </script>

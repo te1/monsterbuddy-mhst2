@@ -43,31 +43,31 @@
 </template>
 
 <script>
-import _ from 'lodash';
-import { deepFreeze, makeHead, formatCoopQuestType } from '~/services/utils';
-import { coopQuests } from '~/services/data';
+  import _ from 'lodash';
+  import { deepFreeze, makeHead, formatCoopQuestType } from '~/services/utils';
+  import { coopQuests } from '~/services/data';
 
-export default {
-  name: 'PageCoop',
+  export default {
+    name: 'PageCoop',
 
-  data() {
-    return {
-      coopQuests: deepFreeze(_.groupBy(coopQuests, 'type')),
-    };
-  },
+    data() {
+      return {
+        coopQuests: deepFreeze(_.groupBy(coopQuests, 'type')),
+      };
+    },
 
-  head() {
-    return makeHead({
-      title:
-        'Monster Buddy - Co-Op Quest List (Dens) For Monster Hunter Stories 2',
-      description:
-        'Overview of co-op missions and list of eggs you can find in the different dens',
-      canonical: 'https://mhst2.monsterbuddy.app/coop/',
-    });
-  },
+    head() {
+      return makeHead({
+        title:
+          'Monster Buddy - Co-Op Quest List (Dens) For Monster Hunter Stories 2',
+        description:
+          'Overview of co-op missions and list of eggs you can find in the different dens',
+        canonical: 'https://mhst2.monsterbuddy.app/coop/',
+      });
+    },
 
-  methods: {
-    formatCoopQuestType,
-  },
-};
+    methods: {
+      formatCoopQuestType,
+    },
+  };
 </script>
