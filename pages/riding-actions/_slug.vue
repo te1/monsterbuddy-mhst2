@@ -91,7 +91,7 @@ export default {
     return makeHead({
       title: `Monster Buddy - ${this.ridingAction.name} In Monster Hunter Stories 2`,
       description,
-      canonical: `https://monsterbuddy.app/riding-actions/${this.ridingAction.slug}/`,
+      canonical: `https://mhst2.monsterbuddy.app/riding-actions/${this.ridingAction.slug}/`,
     });
   },
 

@@ -66,7 +66,7 @@
       return makeHead({
         title: `Monster Buddy - ${this.catavanStand.name} In Monster Hunter Stories 2`,
         description,
-        canonical: `https://monsterbuddy.app/catavan-stands/${this.catavanStand.slug}/`,
+        canonical: `https://mhst2.monsterbuddy.app/catavan-stands/${this.catavanStand.slug}/`,
       });
     },
 

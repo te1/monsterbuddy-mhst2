@@ -32,7 +32,7 @@
 
     <main v-show="leaving || !showFilter">
       <client-only>
-        <Mhst1Banner class="mb-3" />
+        <Mhst3Banner class="mb-3" />
       </client-only>
 
       <div
@@ -143,7 +143,7 @@ export default {
       title: 'Monster Buddy - Monstie List For Monster Hunter Stories 2',
       description:
         'Easily find all monsties in their natural habitats and check on retreat conditions, their attack types and stats',
-      canonical: 'https://monsterbuddy.app/monsties/',
+      canonical: 'https://mhst2.monsterbuddy.app/monsties/',
     });
   },
 

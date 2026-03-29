@@ -1,25 +1,14 @@
 <template>
   <div v-if="coopQuest">
-    <AppTopBar
-      :heading="formatCoopQuest(coopQuest)"
-      showBack
-      backFallback="/coop/"
-    />
+    <AppTopBar :heading="formatCoopQuest(coopQuest)" showBack backFallback="/coop/" />
 
-    <AppFloatingButton
-      v-if="fabVisible"
-      :title="fabTitle"
-      @click="toggleDisplay"
-    >
+    <AppFloatingButton v-if="fabVisible" :title="fabTitle" @click="toggleDisplay">
       <FaIcon :icon="fabIcon" />
     </AppFloatingButton>
 
     <main>
       <ul class="space-y-5">
-        <li
-          v-for="(group, key) in items"
-          :key="key"
-        >
+        <li v-for="(group, key) in items" :key="key">
           <div
             v-if="isGrouped"
             class="sticky top-12 z-10 flex items-center -mx-1 px-1 -mt-3 -mb-1 py-1 border-t bg-gray-300 border-gray-300 dark:bg-cool-700 dark:border-cool-700"
@@ -29,10 +18,7 @@
               :icon="['fas', 'map-marker-alt']"
             />
 
-            <div
-              class="font-semibold mb-1"
-              v-text="key"
-            />
+            <div class="font-semibold mb-1" v-text="key" />
           </div>
 
           <div class="mt-1 grid gap-3 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
@@ -90,7 +76,7 @@
       return makeHead({
         title: `Monster Buddy - ${this.coopQuest.name} In Monster Hunter Stories 2`,
         description,
-        canonical: `https://monsterbuddy.app/coop/${this.coopQuest.slug}/`,
+        canonical: `https://mhst2.monsterbuddy.app/coop/${this.coopQuest.slug}/`,
       });
     },
 
@@ -114,9 +100,7 @@
 
         items = _.sortBy(items, (item) => item.quest.finalNest);
 
-        return _.groupBy(items, (item) =>
-          item.quest?.finalNest ? 'Final Nest' : 'Normal Nest'
-        );
+        return _.groupBy(items, (item) => (item.quest?.finalNest ? 'Final Nest' : 'Normal Nest'));
       },
 
       isGrouped() {

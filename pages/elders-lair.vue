@@ -134,7 +134,7 @@ export default {
         "Monster Buddy - Elder's Lair Monster List For Monster Hunter Stories 2",
       description:
         "Overview of all the high rank monsters and on which floor to find them in the Elder's Lair and S. Elder's Lair end game zones",
-      canonical: 'https://monsterbuddy.app/elders-lair/',
+      canonical: 'https://mhst2.monsterbuddy.app/elders-lair/',
     });
   },
 

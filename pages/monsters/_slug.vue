@@ -3,7 +3,7 @@
     <AppTopBar :heading="monster.name" showBack backFallback="/monsters/" />
 
     <client-only>
-      <Mhst1Banner class="mb-3" />
+      <Mhst3Banner class="mb-3" />
     </client-only>
 
     <main class="grid gap-3 grid-cols-1 lg:grid-cols-2">
@@ -72,8 +72,8 @@ export default {
     return makeHead({
       title: `Monster Buddy - ${this.monster.name} In Monster Hunter Stories 2`,
       description,
-      canonical: `https://monsterbuddy.app/monsters/${this.monster.slug}/`,
-      image: `https://monsterbuddy.app/images/monsters-small/${this.monster.name}.webp`,
+      canonical: `https://mhst2.monsterbuddy.app/monsters/${this.monster.slug}/`,
+      image: `https://mhst2.monsterbuddy.app/images/monsters-small/${this.monster.name}.webp`,
       imageAlt: this.monster.name,
     });
   },
