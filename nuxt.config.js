@@ -142,8 +142,8 @@ export default {
     },
 
     manifest: {
-      name: 'Monster Buddy',
-      short_name: 'Monster Buddy',
+      name: 'Monster Buddy 2',
+      short_name: 'Monster Buddy 2',
       description:
         'Companion App For Monster Hunter Stories 2: Wings Of Ruin. Includes monster attack types and weaknesses, egg patterns, monstie locations and retreat conditions.',
       lang: 'en',
