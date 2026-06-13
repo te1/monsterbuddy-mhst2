@@ -4,8 +4,6 @@ Companion app for Monster Hunter Stories 2: Wings of Ruin
 
 https://mhst2.monsterbuddy.app
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/48aafaed-bd5a-4a84-850f-f7132164d207/deploy-status)](https://app.netlify.com/sites/monsterbuddy/deploys)
-
 Check out the all new and improved https://monsterbuddy.app with data for Monster Hunter Stories 3: Twisted Reflection!
 
 ## Features
