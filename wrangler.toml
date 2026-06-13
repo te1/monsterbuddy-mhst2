@@ -1,0 +1,10 @@
+send_metrics = false
+compatibility_date = "2026-02-01"
+name = "monsterbuddy-mhst2"
+workers_dev = true
+preview_urls = true
+
+[assets]
+directory = "./dist"
+html_handling = "force-trailing-slash"
+not_found_handling = "404-page"

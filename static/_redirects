@@ -1,4 +1,2 @@
-/newt/js/script.js  https://plausible.io/js/plausible.js  200
-/newt/api/event     https://plausible.io/api/event        200
-/monsties/filter    /monsties/filter                      200
-/monsties/*         /monsters/:splat                      301
+/monsties/filter /monsties/filter 200
+/monsties/:name /monsters/:name 301
